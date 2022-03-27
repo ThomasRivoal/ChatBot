@@ -1,3 +1,4 @@
+# ChatBot Project
 For this project, we decided to build a ChatBot capable of exchanging text messages with a human. 
 The goal of this bot is to give book recommendations to an individual.
 A human can therefore inform our bot of all the books he has read. 
